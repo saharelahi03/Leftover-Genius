@@ -1,0 +1,7 @@
+
+venv/
+venv314/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+leftover_genius.db
